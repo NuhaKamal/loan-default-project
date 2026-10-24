@@ -1,5 +1,7 @@
 # Loan Default Prediction
 
+![Project workflow](assets/workflow.svg)
+
 A hands-on machine learning project that predicts **the probability that a loan applicant will default**.
 It follows one complete story, from raw data to a saved model that can score a new applicant:
 
