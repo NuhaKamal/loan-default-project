@@ -1,0 +1,6 @@
+.venv/
+data/
+*.pkl
+lgbm_submission.csv
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn>=1.2
+seaborn>=0.13
+matplotlib
+statsmodels
+lightgbm
+joblib
+jupyterlab
+ipykernel
